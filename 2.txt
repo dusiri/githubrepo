@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line added
+=======
+file added
+>>>>>>> master
